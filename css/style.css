@@ -1,5 +1,5 @@
 /*////////////// Fonts //////////////*/
-
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script|Elsie+Swash+Caps');
 /* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
@@ -15,6 +15,10 @@ body {
 	margin: 0 auto;
 	background: #fff;
 	padding: 0 45px 20px;
+}
+
+#logo{
+  
 }
 
 /* Write all remaining styles here */
