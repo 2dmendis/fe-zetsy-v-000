@@ -25,7 +25,7 @@ body {
 
 .logo h1{
   color: RGB(111,127,133);
-  font-family: 'Merriweather', serif;
+  font-family: 'EB Garamond', serif;
 }
 
 figure{
@@ -62,6 +62,10 @@ h2{
   position: relative;
   top: 0px;
   right: 0px;
+}
+
+.press-box:hover{
+  border-color: black;
 }
 
 
