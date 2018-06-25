@@ -27,6 +27,11 @@ body {
   font-family:'Clicker Script', cursive;
 }
 
+figure{
+  border: solid;
+  border-color: RGB(111, 127, 133);
+}
+
 h2{
   color: RGB(111,127,133);
 }
