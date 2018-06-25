@@ -21,4 +21,8 @@ body {
   font-family:'Clicker Script', cursive;
 }
 
+h2{
+  color: RGB();
+}
+
 /* Write all remaining styles here */
