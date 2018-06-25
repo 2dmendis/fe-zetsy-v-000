@@ -37,4 +37,9 @@ h2{
   float: left;
 }
 
+
+/*/////IMAGE/////*/
+img, video, audio {
+  max-width: 100%;
+}
 /* Write all remaining styles here */
