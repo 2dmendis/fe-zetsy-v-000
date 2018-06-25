@@ -26,8 +26,9 @@ h2{
 }
 
 .press-box{
-  display: inline;
+  display: block;
   width: 23%;
+  float: left;
 }
 
 /* Write all remaining styles here */
