@@ -35,6 +35,15 @@ h2{
   display: block;
   width: 23%;
   float: left;
+  margin: 10px;
+  border: solid, 1px, RGB(111,127,133);
+}
+.press-box #left-box{
+  margin-left: 0px;
+}
+
+.press-box #right-box{
+  margin-right: 0px;
 }
 
 #copyright-tag{
