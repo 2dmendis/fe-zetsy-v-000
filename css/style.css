@@ -24,6 +24,7 @@ body {
 }
 
 #logo h1{
+  color: RGB(111,127,133);
   font-family:'Clicker Script', cursive;
 }
 
@@ -33,6 +34,10 @@ figure{
 }
 
 h2{
+  color: RGB(111,127,133);
+}
+
+#about-section p {
   color: RGB(111,127,133);
 }
 
