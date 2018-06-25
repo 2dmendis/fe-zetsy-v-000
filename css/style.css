@@ -37,6 +37,10 @@ h2{
   float: left;
 }
 
+#copyright-tag{
+  clear: both;
+}
+
 
 /*/////IMAGE/////*/
 img, video, audio {
