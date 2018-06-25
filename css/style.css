@@ -25,4 +25,9 @@ h2{
   color: RGB(111,127,133);
 }
 
+.press-box{
+  display: inline;
+  width: 23%;
+}
+
 /* Write all remaining styles here */
