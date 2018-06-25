@@ -23,7 +23,7 @@ body {
 	padding: 0 45px 20px;
 }
 
-#logo h1{
+.logo h1{
   color: RGB(111,127,133);
   font-family:'Clicker Script', cursive;
 }
