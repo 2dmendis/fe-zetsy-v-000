@@ -14,7 +14,7 @@
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Merriweather', serif;
+	font-family: 'Times New Roman', serif; 
 }
 
 .wrapper {
@@ -26,7 +26,7 @@ body {
 
 .logo h1{
   color: RGB(111,127,133);
-  font-family:'Clicker Script', cursive;
+  font-family: 'Merriweather', serif;
 }
 
 figure{
