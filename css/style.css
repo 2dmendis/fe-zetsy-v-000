@@ -39,6 +39,8 @@ h2{
 
 #copyright-tag{
   clear: both;
+  position: relative;
+  top: 0;
 }
 
 
